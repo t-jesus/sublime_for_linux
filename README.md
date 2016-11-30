@@ -9,7 +9,7 @@
 * 略
 
 ###4、新建sublime_imfix.c
-* 内容略
+* sublime_imfix.c
 
 ###5、安装gt
 * dnf install libgnomeui-devel -y（如果是ubuntu的话 sudo apt-get install build-essential libgtk2.0-dev）
